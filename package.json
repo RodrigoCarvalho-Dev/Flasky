@@ -1,0 +1,15 @@
+{
+  "name": "my-flasky",
+  "version": "1.0.0",
+  "description": "git remote add origin https://github.com/RodrigoCarvalho-Dev/Flasky.git\r     git branch -M main\r     git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./static/css/tailwind.css -o ./static/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
